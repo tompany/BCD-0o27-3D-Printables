@@ -6,6 +6,8 @@ With a nod to an ancient Nintendo ;-)
 |:---------:|:---------:|:---------:|
 | <img src="./attachments/manual/media/image1.jpg" /> | <img src="./attachments/manual/media/image2.jpg" /> | <img src="./attachments/manual/media/image3.jpg" />|
 
+The BCD-0o27 is shaped in such a way that it lilits the creation of a real Nintendo 'look'. I tried to stay as close to the vintage Nintendo style as possible given the design of the PCB and it's components. I also gave it a transparent back so you can still see and show the BalCCon2k23 logo and 'Syetem Failure' sub-header on the back of the PCB. I hope you epreciate this design and have fun building / using it.
+
 Contents
 
 [1 Materials used for printing and constructing](#materials-used-for-printing-and-constructing)
