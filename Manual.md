@@ -1,3 +1,5 @@
+# 3D printable vintage case for the BCD-0o27
+
 With a nod to an ancient Nintendo ;-)
 
 <img src="./attachments/manual/media/image1.jpg" style="width:50%;height:50%" />
