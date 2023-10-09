@@ -4,7 +4,7 @@ With a nod to an ancient Nintendo ;-)
 
 | Front view | Back view | Front detail |
 |:---------:|:---------:|:---------:|
-| <img src="./attachments/manual/media/image1.jpg" /> | <img src="./attachments/manual/media/image2.jpg" /> | <img src="./attachments/manual/media/image3.jpg" /> |
+| <img src="./attachments/manual/media/image1.jpg" vertical_align="middle" /> | <img src="./attachments/manual/media/image2.jpg" vertical_align="middle" /> | <img src="./attachments/manual/media/image3.jpg" vertical_align="middle" /> |
 
 Contents
 
