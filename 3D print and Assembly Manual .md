@@ -74,7 +74,7 @@ lacquered to give the appearance of being made of glass.
 
 <img src="./attachments/manual/media/image5.png" />
 
-(---)
+---
 
 # Building instructions
 
