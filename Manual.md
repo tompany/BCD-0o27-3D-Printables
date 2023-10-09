@@ -2,9 +2,9 @@ With a nod to an ancient Nintendo ;-)
 
 <img src="./attachments/manual/media/image1.jpg" style="width:50%;height:50%" />
 
-<img src="./attachments/manual/media/image2.jpg" style="width:1.8712in;height:3.51473in" />
+<img src="./attachments/manual/media/image2.jpg" style="width:50%;height:50%" />
 
-<img src="./attachments/manual/media/image3.jpg" style="width:3.10187in;height:3.72533in" />
+<img src="./attachments/manual/media/image3.jpg" style="width:50%;height:50%" />
 
 Contents
 
@@ -73,7 +73,7 @@ lacquered to give the appearance of being made of glass.
 # Exploded view
 
 <img src="./attachments/manual/media/image5.png"
-style="width:6.40625in;height:7.79209in" />
+style="width:50%;height:50%" />
 
 # Building instructions
 
