@@ -1,6 +1,6 @@
 With a nod to an ancient Nintendo ;-)
 
-<img src="./attachments/manual/media/image1.jpg" style="width:2.99373in;height:3.59646in" />
+<img src="./attachments/manual/media/image1.jpg" style="width:50%;height:50%" />
 
 <img src="./attachments/manual/media/image2.jpg" style="width:1.8712in;height:3.51473in" />
 
