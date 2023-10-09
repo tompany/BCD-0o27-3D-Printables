@@ -2,7 +2,7 @@
 
 With a nod to an ancient Nintendo ;-)
 
-| Picture 1 | Picture 2 | Picture 3 |
+| Front view | Back view | Front detail |
 |:---------:|:---------:|:---------:|
 | <img src="./attachments/manual/media/image1.jpg" /> | <img src="./attachments/manual/media/image2.jpg" /> | <img src="./attachments/manual/media/image3.jpg" /> |
 
