@@ -2,7 +2,9 @@
 
 With a nod to an ancient Nintendo ;-)
 
-| Picture 1 | Picture 2 | Picture 3 | |:---------:|:---------:|:---------:| | <img src="./attachments/manual/media/image1.jpg" width="20%" height="20%" /> | <img src="./attachments/manual/media/image2.jpg" width="20%" height="20%" /> | <img src="./attachments/manual/media/image3.jpg" width="20%" height="20%" /> |
+| Picture 1 | Picture 2 | Picture 3 |
+|:---------:|:---------:|:---------:|
+| <img src="./attachments/manual/media/image1.jpg" width="20%" height="20%" /> | <img src="./attachments/manual/media/image2.jpg" width="20%" height="20%" /> | <img src="./attachments/manual/media/image3.jpg" width="20%" height="20%" /> |
 
 Contents
 
