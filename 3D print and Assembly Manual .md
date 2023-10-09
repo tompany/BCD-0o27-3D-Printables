@@ -80,85 +80,126 @@ lacquered to give the appearance of being made of glass.
 
 <img src="./attachments/manual/media/image6.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image7.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image8.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image9.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image10.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image11.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image12.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image13.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image14.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image15.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image16.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image17.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image18.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image19.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image20.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image21.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image22.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image23.png" />
 
+
 -----
+
 
 <img src="./attachments/manual/media/image24.png" />
 
+
 -----
+
 
 # Tip: Two ways of making a two colour ‘Nontendo’ logo
 
+
 <img src="./attachments/manual/media/image25.png" />
 
+
 -----
+
 
 # Nintendo style hand bracelet
 
@@ -169,6 +210,8 @@ If you like the hand bracelet, you can order it here:
 There are no holes for the hand bracelet in the original design. You
 will have to drill them, yourselves.
 
+
 <img src="./attachments/manual/media/image26.png" />
+
 
 Have FUN…!!!
