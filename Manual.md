@@ -72,72 +72,51 @@ lacquered to give the appearance of being made of glass.
 
 # Exploded view
 
-<img src="./attachments/manual/media/image5.png"
-style="width:50%;height:50%" />
+<img src="./attachments/manual/media/image5.png" style="width:100%;height:100%" />
 
 # Building instructions
 
-<img src="./attachments/manual/media/image6.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image6.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image7.png"
-style="width:6.26042in;height:3.52083in" />
+<img src="./attachments/manual/media/image7.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image8.png"
-style="width:6.26042in;height:3.52083in" />
+<img src="./attachments/manual/media/image8.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image9.png"
-style="width:6.25in;height:3.51042in" />
+<img src="./attachments/manual/media/image9.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image10.png"
-style="width:6.27083in;height:3.52083in" />
+<img src="./attachments/manual/media/image10.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image11.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image11.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image12.png"
-style="width:6.27083in;height:3.60417in" />
+<img src="./attachments/manual/media/image12.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image13.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image13.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image14.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image14.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image15.png"
-style="width:6.25in;height:3.51042in" />
+<img src="./attachments/manual/media/image15.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image16.png"
-style="width:6.25in;height:3.51042in" />
+<img src="./attachments/manual/media/image16.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image17.png"
-style="width:6.26042in;height:3.52083in" />
+<img src="./attachments/manual/media/image17.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image18.png"
-style="width:6.26042in;height:3.52083in" />
+<img src="./attachments/manual/media/image18.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image19.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image19.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image20.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image20.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image21.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image21.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image22.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image22.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image23.png"
-style="width:6.25in;height:3.52083in" />
+<img src="./attachments/manual/media/image23.png" style="width:75%;height:75%" />
 
-<img src="./attachments/manual/media/image24.png"
-style="width:6.10246in;height:5.18572in" />
+<img src="./attachments/manual/media/image24.png" style="width:75%;height:75%" />
 
 # Tip: Two ways of making a two colour ‘Nontendo’ logo
 
-<img src="./attachments/manual/media/image25.png"
-style="width:6.26042in;height:3.5in" />
+<img src="./attachments/manual/media/image25.png" style="width:75%;height:75%" />
 
 # Nintendo style hand bracelet
 
@@ -148,7 +127,6 @@ If you like the hand bracelet, you can order it here:
 There are no holes for the hand bracelet in the original design. You
 will have to drill them, yourselves.
 
-<img src="./attachments/manual/media/image26.png"
-style="width:2.81107in;height:2.7306in" />
+<img src="./attachments/manual/media/image26.png" style="width:75%;height:75%" />
 
 Have FUN…!!!
